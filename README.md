@@ -213,5 +213,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 ## Contact
 
-*Créée par Durand [+237651104356]*
+*Créer par Durand [+237651104356]*
 
